@@ -1,0 +1,8 @@
+fqdn
+isoduration
+jsonpointer
+jupyter
+pipdeptree
+tinycss2
+uri-template
+webcolors
